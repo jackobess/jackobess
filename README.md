@@ -21,7 +21,7 @@ Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 
 Python · pandas · scikit-learn · XGBoost · SHAP · FastAPI · Docker · GitHub Actions · MLflow · Evidently · FAISS · Mistral · Ragas · Streamlit · PostgreSQL
 
-### 📫 Me contacter
+### 📫 Plus
 
 - 📄 [Mon portfolio](LIEN_PORTFOLIO)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacob-bessire)
