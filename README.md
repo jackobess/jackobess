@@ -25,5 +25,5 @@ Python · pandas · scikit-learn · XGBoost · SHAP · FastAPI · Docker · GitH
 
 ### 📫 Plus
 
-- 📄 [Mon portfolio](LIEN_PORTFOLIO)
+- 📄 [Mon portfolio](Portfolio_Jacob_Bessire_v2.pdf)
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacob-bessire)
