@@ -1,6 +1,6 @@
-## Bonjour 👋 et bienvenu sur mon profil Github
+## Bonjour 👋 et bienvenue sur mon profil GitHub
 
-Après 20 ans d'intégration de systèmes d'information hospitaliers chez Cerner / Oracle (integration/interfaces, reprise de données, management d'équipe), je me suis reconverti vers l' **IA, Data Science et Machine Learning** : 13 projets réalisés dans le parcours *Data Scientist Machine Learning* d'OpenClassrooms.
+Après 20 ans d'intégration de systèmes d'information hospitaliers chez Cerner / Oracle (interfaces, reprise de données, management d'équipe), je me suis reconverti vers l'**IA, Data Science et Machine Learning** : 13 projets réalisés dans le parcours *Data Scientist Machine Learning* d'OpenClassrooms.
 
 Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 
@@ -8,7 +8,7 @@ Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 
 - 💬 **[AskJack](https://askjack.streamlit.app)** : un assistant RAG qui répond aux questions des recruteurs sur mon parcours (FAISS, Mistral, Streamlit). [Code et rapport de conduite de projet](https://github.com/jackobess/OC_Projet13)
 
-### 🧪 Quelques projets realisés lors de ma formation OpenClassroom (DataScientist/Machine Learning)
+### 🧪 Quelques projets réalisés lors de ma formation OpenClassrooms (DataScientist - Machine Learning)
 
 - 🌱 [P12 – Recommandation pour l'agriculture](https://github.com/jackobess/OC_Projet12) : ML de bout en bout avec MLOps
 - 🏀 [P10 – Évaluer un LLM](https://github.com/jackobess/OC_Projet10) : audit d'un RAG, Pydantic AI, NL→SQL, Ragas, Logfire
