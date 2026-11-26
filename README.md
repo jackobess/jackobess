@@ -6,8 +6,8 @@ Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 
 ### 🚀 Projet IA personnel
 
-- 💬 **[AskJack](https://askjack.streamlit.app)** : un assistant RAG qui répond aux questions des recruteurs sur mon parcours (FAISS, Mistral APIs, Streamlit).
-[Code et rapport de conduite de projet](https://github.com/jackobess/OC_Projet13)
+- 💬 **[AskJack](https://askjack.streamlit.app)** : un assistant RAG qui répond aux questions des recruteurs sur mon parcours (FAISS, Mistral APIs, Streamlit).  
+[Repo GitHub](https://github.com/jackobess/OC_Projet13) &nbsp;&nbsp;·&nbsp;&nbsp;  [Livrables de projet](https://github.com/jackobess/jackobess/tree/main/P13)
 
 ### 🧪 Quelques projets réalisés lors de ma formation OpenClassrooms (Data Scientist - Machine Learning)
 
