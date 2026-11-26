@@ -1,0 +1,11 @@
+[project]
+
+name = "projet_OC_4"
+version = "0.1.0"
+description = "Projet N°4 Classifiez automatiquement des informations - Identifiez les causes d'attrition au sein d'une ESN"
+requires-python = ">=3.9"
+dependencies = ['matplotlib', 'numpy', 'pandas', 'scikit_learn', 'scipy', 'seaborn', 'shap', 'xgboost']
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build-meta"
