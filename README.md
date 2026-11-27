@@ -33,4 +33,5 @@ Python · pandas · scikit-learn · XGBoost · LightGBM · SHAP · FastAPI · Do
 ### 📫 Plus
 
 - 📄 [Mon portfolio](https://jackobess.github.io/jackobess/Portfolio_Jacob_Bessire_v2.pdf)
+- 🗺️ [Ma carte mentale](https://jackobess.github.io/jackobess/ma_carte_mentale_portfolio.drawio.html)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacob-bessire)
