@@ -1,6 +1,6 @@
 # 🌱 P12 – Agritech : recommandation de cultures par la donnée
 
-Projet de fin de parcours *Data Scientist Machine Learning* (OpenClassrooms).
+Projet du parcours *Data Scientist Machine Learning* (OpenClassrooms).
 
 L'objectif est de prédire les rendements agricoles et de recommander les cultures les plus adaptées, sur une chaîne ML complète : exploration et préparation des données, modélisation, API, application et MLOps.
 
