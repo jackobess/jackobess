@@ -10,3 +10,23 @@ Audit et amélioration d'un assistant RAG sur la NBA : extraction des sources (O
 
 - 💻 [Code source (dépôt OC_Projet10)](https://github.com/jackobess/OC_Projet10)
 - 🖼️ [Présentation de soutenance (PDF)](projet10.pdf)
+
+## 📝 Évaluation
+
+**Validé le 1er octobre 2026**
+
+### Notes de l'évaluateur
+
+- **Évaluer les performances de l'infrastructure sous-jacente au modèle d'apprentissage** : La manière d'évaluer le RAG et les définitions des différentes métriques sont bien maîtrisées. Discussion ensuite sur l'évaluation d'un agent.
+
+### Points forts
+
+- Présentation structurée, agréable à suivre.
+
+### Axes d'amélioration
+
+- RAS.
+
+### Remarques sur la soutenance
+
+- Bon travail ! Bon courage pour la suite !

@@ -7,3 +7,11 @@ Lancement du parcours : prise en main de la plateforme et de la méthode de trav
 ## 🔗 Liens
 
 - 📄 [Fiche de début de formation (PDF)](Bessire_Jacob_1_Fichede%CC%81butformation_032026.pdf)
+
+## 📝 Évaluation
+
+**Validé le 9 mars 2026**
+
+### Notes de l'évaluateur
+
+- **Définir le cadre de votre formation** : Validé.

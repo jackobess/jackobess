@@ -9,3 +9,13 @@ Analyse exploratoire des données EdStats de la Banque mondiale pour aider une E
 ## 🔗 Liens
 
 - 🖼️ [Présentation de soutenance (PDF)](Bessire_Jacob_2_presentation_032026.pdf)
+
+## 📝 Évaluation
+
+**Validé le 24 mars 2026**
+
+### Notes de l'évaluateur
+
+- **Appliquer des analyses statistiques descriptives et naviguer visuellement dans les données** : Très bonne exploration et usage de pandas pour sortir les analyses initiales pertinentes.
+- **Configurer l'environnement de travail nécessaire à l'exploitation des données** : Validé.
+- **Corriger les anomalies manuellement et à l'aide d'outils adaptés** : Bon filtrage des données à l'aide de pandas.
