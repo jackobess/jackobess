@@ -9,19 +9,26 @@ Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 - 💬 **[AskJack](https://askjack.streamlit.app)** : un assistant RAG qui répond aux questions des recruteurs sur mon parcours (FAISS, Mistral APIs, Streamlit).  
 [Repo GitHub](https://github.com/jackobess/OC_Projet13) &nbsp;&nbsp;·&nbsp;&nbsp;  [Livrables de projet](https://github.com/jackobess/jackobess/tree/main/P13)
 
-### 🧪 Quelques projets réalisés lors de ma formation OpenClassrooms (Data Scientist - Machine Learning)
+### 🧪 Mes 13 projets de formation OpenClassrooms (Data Scientist - Machine Learning)
 
-- ⚙️ [P5 – Déployer un modèle ML](https://github.com/jackobess/OC_Projet5) : FastAPI, PostgreSQL, Pytest, GitHub Actions vers Hugging Face
-- 💳 [P8 – Scoring crédit en production](https://github.com/jackobess/OC_Projet8) : API dockerisée, CI/CD, monitoring du data drift (Evidently)
-- 🎭 [P9 – Système RAG](https://github.com/jackobess/OC_Projet9) : chatbot sur les événements culturels de Nantes (FAISS, Mistral, FastAPI, Docker)
-- 🏀 [P10 – Évaluer un LLM](https://github.com/jackobess/OC_Projet10) : audit d'un RAG, Pydantic AI, NL→SQL, Ragas, Logfire
+- 🏁 [P1 – Démarrer la formation](P01/README.md) : prise en main du parcours et objectifs de formation
+- 🎓 [P2 – Analyse exploratoire de données éducatives](P02/README.md) : EDA des données EdStats, scoring de pays pour une EdTech
+- 🏢 [P3 – Consommation énergétique des bâtiments](P03/README.md) : régression (XGBoost) de la consommation et des émissions de CO2, SHAP
+- 👥 [P4 – Prédire l'attrition RH](P04/README.md) : classification, seuil rappel / précision, SHAP
+- ⚙️ [P5 – Déployer un modèle ML](P05/README.md) : FastAPI, PostgreSQL, Pytest, GitHub Actions vers Hugging Face
+- 📊 [P6 – Initiation au MLOps](P06/README.md) : scoring crédit, coût métier, Optuna, suivi MLflow
+- 🧠 [P7 – Images semi-supervisées](P07/README.md) : IRM cérébrales, ResNet50, PCA, K-Means
+- 💳 [P8 – Scoring crédit en production](P08/README.md) : API dockerisée, CI/CD, monitoring du data drift (Evidently)
+- 🎭 [P9 – Système RAG](P09/README.md) : chatbot sur les événements culturels de Nantes (FAISS, Mistral, FastAPI, Docker)
+- 🏀 [P10 – Évaluer un LLM](P10/README.md) : audit d'un RAG, Pydantic AI, NL→SQL, Ragas, Logfire
+- 🧭 [P11 – Cadrage d'un projet IA](P11/README.md) : app de recommandation de mode, System Design Azure, ROI, RGPD
 - 🌱 [P12 – Recommandation pour l'agriculture](P12/README.md) : ML de bout en bout avec MLOps
-- 🤖 [P13 – AskJack - Mon parcours & mes projets IA](P13/README.md) : Assistant RAG pour interroger mon parcours professionnel et mes projets de formation
+- 🤖 [P13 – AskJack - Mon parcours & mes projets IA](P13/README.md) : assistant RAG pour interroger mon parcours professionnel et mes projets de formation
 
 
 ### 🧰 Stack
 
-Python · pandas · scikit-learn · XGBoost · SHAP · FastAPI · Docker · GitHub Actions · MLflow · Evidently · FAISS · Mistral · Ragas · Streamlit · PostgreSQL
+Python · pandas · scikit-learn · XGBoost · LightGBM · SHAP · FastAPI · Docker · GitHub Actions · MLflow · Evidently · FAISS · Mistral · Ragas · Pydantic AI · Streamlit · PostgreSQL
 
 ### 📫 Plus
 
