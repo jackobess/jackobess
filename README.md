@@ -16,7 +16,7 @@ Ce qui me motive : mettre l'IA au service de projets **utiles et concrets**.
 - 🎭 [P9 – Système RAG](https://github.com/jackobess/OC_Projet9) : chatbot sur les événements culturels de Nantes (FAISS, Mistral, FastAPI, Docker)
 - 🏀 [P10 – Évaluer un LLM](https://github.com/jackobess/OC_Projet10) : audit d'un RAG, Pydantic AI, NL→SQL, Ragas, Logfire
 - 🌱 [P12 – Recommandation pour l'agriculture](P12/README.md) : ML de bout en bout avec MLOps
-- 🤖 [P13 – AskJack - Mon parcours & mes projets IA](https://github.com/jackobess/jackobess/blob/main/P13/README.md) : Assistant RAG pour interroger mon parcours professionnel et mes projets de formation
+- 🤖 [P13 – AskJack - Mon parcours & mes projets IA](P13/README.md) : Assistant RAG pour interroger mon parcours professionnel et mes projets de formation
 
 
 ### 🧰 Stack
